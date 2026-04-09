@@ -83,7 +83,7 @@ st.markdown(
 # API 주소
 # =========================
 st.sidebar.title("설정")
-API_BASE = st.sidebar.text_input("API 주소", "http://localhost:8000")
+API_BASE = st.sidebar.text_input("API 주소", "https://ai-ticket-api.onrender.com")
 
 
 # =========================
